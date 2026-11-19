@@ -18,3 +18,7 @@ Membantu pekerjaan operasional kantor menjadi lebih mudah dan efisien.
 - CSS
 - JavaScript
 - GitHub
+## Status Proyek
+
+Repository berhasil dihubungkan ke VS Code.
+Pengembangan otomatisasi General Affair dimulai.
